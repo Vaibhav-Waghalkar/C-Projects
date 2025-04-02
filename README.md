@@ -6,7 +6,7 @@ Welcome to my **C Projects Repository**! Here, you'll find a collection of **beg
 
 ### 🟢 Beginner-Level Projects
 Simple programs for basic C concepts.
-- ✅ [Simple Calculator](Beginner/Simple-Calculator)
+- ✅ [Advanced Calculator](Beginner/Advanced-Calculator)
 - ✅ [Student Record System](Beginner/Student-Record-System)
 
 ### 🔵 Intermediate-Level Projects
