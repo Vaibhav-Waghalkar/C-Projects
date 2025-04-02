@@ -1,14 +1,16 @@
-# 🖩 Advanced Calculator
+# 🖩 Advanced Calculator (C)
 
 ## 📌 Overview
-This is an **Advanced Calculator** built using C. It supports:
-- Basic arithmetic operations (+, -, *, /)
-- Power function
-- Square root calculation
-- Trigonometric functions (sin, cos, tan)
-- Factorial computation
+This **Advanced Calculator** is built in C, supporting:
+- 🔹 **Basic operations**: Addition, Subtraction, Multiplication, Division
+- 🔹 **Power functions**: Exponents, Square roots
+- 🔹 **Trigonometry**: sin, cos, tan
+- 🔹 **Factorial computation**
+- 🔹 **Memory functions** (store & recall results)
+- 🔹 **User-friendly menu-driven system**
 
-## ⚙️ How to Compile and Run
+## 🛠️ Installation & Usage
+### **1️⃣ Compile the program**
+Use GCC to compile the C program:
 ```sh
-gcc calculator.c -o calculator -lm
-./calculator
+gcc Calculator.c -o calculator -lm
